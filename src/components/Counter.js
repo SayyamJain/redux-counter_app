@@ -40,6 +40,10 @@ const Counter = () => {
 
 export default Counter;
 
+
+
+
+
 // class Counter extends Component {
 //   incrementHandler() {
 //     this.props.increment()
